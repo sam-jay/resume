@@ -1,12 +1,21 @@
 # Skills
+
+# Technology
+- skill: Technology
+  description: Javascript, Node.js, React.js, React Native, Redux, Electron, MongoDB, Neo4j, Objective-C, Python, Redis, Git, Unix, C
+
+# Languages
+- skill: Languages
+  description: English (native), Sinhalese (native), Mandarin Chinese (basic conversational and written)
+
 # Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+#- skill: Donut design
+#  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
 
 # Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+#- skill: Craft beer brewing
+#  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
 
 # Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+#- skill: Family leadership
+#  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
