@@ -3,8 +3,10 @@
 
 # Superscript
 - project: Superscript
+  role: Team member
+  duration: 2015
   url: "https://github.com/udaysinghcode/superscript"
-  description: For my compilers class at Columbia we implemented a compiler for a type-inferred lisp using OCaml that transpiles to Javascript. Allowed me to gain an in-depth understanding of Javascript as well as an appreciation for functional programming using OCaml.
+  description: For our compilers class at Columbia we implemented a compiler for a type-inferred lisp using OCaml that transpiles to Javascript. Allowed me to gain an in-depth understanding of Javascript as well as an appreciation for functional programming using OCaml.
 
 # donutfinder.io
 #- project: donutfinder.io
